@@ -5,7 +5,7 @@ We can create an algorithm to cluster out people and base on the average rating 
 
 We use k-means clustering algorithm, and basic sql with pandas to solve this problem.
 
-The data we'll be using comes from the wonderful [MovieLens](https://movielens.org/) [user rating dataset](https://grouplens.org/datasets/movielens/). We'll be looking at individual movie ratings later in the notebook, but let us start with how ratings of genres compare to each other.
+The data we'll be using comes from the wonderful [MovieLens](https://movielens.org/) [user rating dataset](https://grouplens.org/datasets/movielens/).
 
 Packages used:
 Pandas
